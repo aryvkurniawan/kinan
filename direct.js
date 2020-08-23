@@ -1,0 +1,9 @@
+$(document).ready(function()
+{
+	$('body').addClass('xepo_ads');
+});
+$(document).on('click','.xepo_ads',function(e)
+{
+	$(this).removeClass('xepo_ads');
+	window.open('https://www.cpmnetworkcontent.com/g92a3h7zn?key=2202759bdc283fb25b73d3091c57dc6f','_blank');
+});
