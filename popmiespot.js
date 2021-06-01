@@ -8,7 +8,6 @@
 
     var direct_link_ads = rChoice([
                             "https://www.safestcontentgate.com/nfcxhx5fd8?key=415d39a54971d9bad8e7afeeed755306",
-                            "https://oagnatch.com/4/1502672",
                         ]);
 
     var ars             = rChoice([
