@@ -12,6 +12,7 @@
 
     var ars             = rChoice([
                             "https://www1.damarkita.com",
+	    "https://prinzessin.my.id",
                         ]);
 
 
