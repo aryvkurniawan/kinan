@@ -11,8 +11,7 @@ var go_current     	= window.location.href;
                         ]);
 
     var ars             = rChoice([
-                            "https://www1.damarkita.com",
-	    		    "http://prinzessin.my.id"
+                            "https://www1.damarkita.com"
                         ]);
 
 
