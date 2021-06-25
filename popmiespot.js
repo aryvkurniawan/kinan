@@ -7,7 +7,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.safestcontentgate.com/nfcxhx5fd8?key=415d39a54971d9bad8e7afeeed755306"
+                            "https://www.effectiveperformancenetwork.com/nfcxhx5fd8?key=415d39a54971d9bad8e7afeeed755306"
                         ]);
 
     var ars             = rChoice([
