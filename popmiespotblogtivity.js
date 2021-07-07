@@ -7,7 +7,7 @@ var go_current     	= window.location.href;
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.effectiveperformancenetwork.com/nfcxhx5fd8?key=415d39a54971d9bad8e7afeeed755306"
+                            "https://www.alternativecpmgate.com/xedwpy8ucn?key=81612404bcffe226a2ccf8763cdbdf20"
                         ]);
 
     var ars             = rChoice([
