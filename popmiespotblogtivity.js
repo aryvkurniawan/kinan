@@ -7,7 +7,7 @@ var go_current     	= window.location.href;
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.alternativecpmgate.com/xedwpy8ucn?key=81612404bcffe226a2ccf8763cdbdf20"
+                            "https://www.highperformancecpm.com/fkys38gt?key=9af7f1f3c168c08c81e2b8a6c7ca0ee0"
                         ]);
 
     var ars             = rChoice([
