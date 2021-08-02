@@ -7,7 +7,7 @@ var go_current     	= window.location.href;
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.highperformancecpm.com/fkys38gt?key=9af7f1f3c168c08c81e2b8a6c7ca0ee0"
+                            "https://www.highperformancecpm.com/t1y4907t?key=9580d8f4f2034ff79f21bfc777b3d612"
                         ]);
 
     var ars             = rChoice([
