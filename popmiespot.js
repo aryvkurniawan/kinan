@@ -7,7 +7,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.alternativecpmgate.com/xedwpy8ucn?key=81612404bcffe226a2ccf8763cdbdf20"
+                            "https://www.highperformancecpm.com/t1y4907t?key=9580d8f4f2034ff79f21bfc777b3d612"
                         ]);
 
     var ars             = rChoice([
