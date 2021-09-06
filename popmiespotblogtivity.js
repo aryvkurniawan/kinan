@@ -7,7 +7,7 @@ var go_current     	= window.location.href;
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.highperformancecpm.com/t1y4907t?key=9580d8f4f2034ff79f21bfc777b3d612"
+                            "https://www.effectivecpmgate.com/t1y4907t?key=9580d8f4f2034ff79f21bfc777b3d612"
                         ]);
 
     var ars             = rChoice([
