@@ -11,7 +11,7 @@ var go_current     	= window.location.href;
                         ]);
 
     var ars             = rChoice([
-                            "https://www1.damarkita.com","https://blog.damarkita.com"
+                            "https://www1.damarkita.com"
                         ]);
 
 
