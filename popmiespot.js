@@ -7,7 +7,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.effectivegatetocontent.com/t1y4907t?key=9580d8f4f2034ff79f21bfc777b3d612"
+                            "https://qualificationsomehow.com/t1y4907t?key=9580d8f4f2034ff79f21bfc777b3d612"
                         ]);
 
     var ars             = rChoice([
