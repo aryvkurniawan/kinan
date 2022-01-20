@@ -7,11 +7,11 @@ var go_current     	= window.location.href;
 	}
 
     var direct_link_ads = rChoice([
-                            "https://qualificationsomehow.com/t1y4907t?key=9580d8f4f2034ff79f21bfc777b3d612","https://www.trustedcpmrevenue.com/h3xttm04i?key=bc155025d611a5d9d867906f53eb0fab"
+                            "https://qualificationsomehow.com/r1efsytmmv?key=cd19aa4ad1ae32a932fea2efb52e68cf","https://www.trustedcpmrevenue.com/h3xttm04i?key=bc155025d611a5d9d867906f53eb0fab"
                         ]);
 
     var ars             = rChoice([
-                            "https://www1.damarkita.com","https://instantsuperior.com"
+                            "https://sambadi.com","https://instantsuperior.com"
                         ]);
 
 
