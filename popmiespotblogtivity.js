@@ -7,7 +7,7 @@ var go_current     	= window.location.href;
 	}
 
     var direct_link_ads = rChoice([
-                            "https://qualificationsomehow.com/r1efsytmmv?key=cd19aa4ad1ae32a932fea2efb52e68cf","https://www.effectivecpmcontent.com/h3xttm04i?key=bc155025d611a5d9d867906f53eb0fab"
+                            "https://itinerarycarter.com/r1efsytmmv?key=cd19aa4ad1ae32a932fea2efb52e68cf","https://www.safestgatetocontent.com/h3xttm04i?key=bc155025d611a5d9d867906f53eb0fab"
                         ]);
 
     var ars             = rChoice([
