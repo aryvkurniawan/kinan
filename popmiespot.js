@@ -7,7 +7,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://qualificationsomehow.com/t1y4907t?key=9580d8f4f2034ff79f21bfc777b3d612"
+                            "https://itinerarycarter.com/r1efsytmmv?key=cd19aa4ad1ae32a932fea2efb52e68cf","https://www.safestgatetocontent.com/x7i9rwrty5?key=544f25ff6edef52df402654218302a5f"
                         ]);
 
     var ars             = rChoice([
