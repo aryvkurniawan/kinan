@@ -5,5 +5,5 @@ $(document).ready(function()
 $(document).on('click','.xepo_ads',function(e)
 {
 	$(this).removeClass('xepo_ads');
-	window.open('https://www.highcpmrevenuenetwork.com/r1efsytmmv?key=cd19aa4ad1ae32a932fea2efb52e68cf');
+	window.open('https://www.highrevenuegate.com/r1efsytmmv?key=cd19aa4ad1ae32a932fea2efb52e68cf');
 });
