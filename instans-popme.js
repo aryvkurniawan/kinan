@@ -11,7 +11,7 @@ var go_current     	= window.location.href;
                         ]);
 
     var ars             = rChoice([
-                            "https://instantsuperior.com"
+                            "https://v2.sambadi.com"
                         ]);
 
 
